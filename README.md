@@ -5,9 +5,15 @@ To design an IOT based Air Pollution Monitoring System which used to monitor and
 #Materials required
 
 *Node MCU -Wifi ESP8266
+
 *Arduino Nano
+
 *MQ 135 - Gas Sensor
+
 *MQ 7 - CO Sensor
+
 *DHT 11 - Humidity and Temperature sensor
+
 *Breadboard
+
 *Jumper Wires
